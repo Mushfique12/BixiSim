@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,43,0" name="Bixi.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885813">
+    <file name="BikeRack_Constraints.java">
+      <node id="7775459748226885813" at="41,33,42,131" concept="10" />
+      <node id="7775459748226885813" at="49,127,50,128" concept="5" />
+      <node id="7775459748226885813" at="50,128,51,0" concept="7" />
+      <node id="7775459748226885813" at="52,55,53,71" concept="2" />
+      <node id="7775459748226885813" at="54,9,55,0" concept="7" />
+      <node id="7775459748226885813" at="55,0,56,22" concept="6" />
+      <node id="7775459748226885813" at="61,84,62,119" concept="5" />
+      <node id="7775459748226906099" at="65,40,66,20" concept="6" />
+      <node id="7775459748226906099" at="69,70,70,46" concept="5" />
+      <node id="7775459748226906594" at="70,46,71,289" concept="6" />
+      <node id="7775459748226906104" at="76,40,77,20" concept="6" />
+      <node id="7775459748226906104" at="80,70,81,43" concept="5" />
+      <node id="7775459748226930946" at="81,43,82,459" concept="6" />
+      <node id="4045961827639230480" at="87,40,88,20" concept="6" />
+      <node id="4045961827639230480" at="91,76,92,41" concept="5" />
+      <node id="4045961827639273309" at="93,9,94,368" concept="5" />
+      <node id="4045961827641004856" at="96,45,97,718" concept="6" />
+      <node id="4045961827642044858" at="101,45,102,1426" concept="6" />
+      <node id="7775459748226885813" at="107,7,108,22" concept="6" />
+      <node id="7775459748226885813" at="111,90,112,131" concept="5" />
+      <node id="7775459748226906113" at="115,44,116,20" concept="6" />
+      <node id="7775459748226906113" at="123,63,124,58" concept="6" />
+      <node id="7775459748226960527" at="128,13,129,241" concept="5" />
+      <node id="7775459748226964356" at="129,241,130,227" concept="5" />
+      <node id="7775459748226967487" at="130,227,131,220" concept="5" />
+      <node id="7775459748226971995" at="131,220,132,47" concept="5" />
+      <node id="7775459748227014040" at="135,51,136,189" concept="6" />
+      <node id="7775459748227021042" at="139,51,140,1408" concept="6" />
+      <node id="7775459748227139465" at="145,51,146,189" concept="6" />
+      <node id="7775459748227147984" at="149,15,150,66" concept="6" />
+      <node id="7775459748226906118" at="158,44,159,20" concept="6" />
+      <node id="7775459748226906118" at="166,63,167,58" concept="6" />
+      <node id="7775459748227150682" at="171,13,172,238" concept="5" />
+      <node id="7775459748227154305" at="172,238,173,227" concept="5" />
+      <node id="7775459748227157806" at="173,227,174,222" concept="5" />
+      <node id="7775459748227161534" at="174,222,175,47" concept="5" />
+      <node id="7775459748227189593" at="178,51,179,187" concept="6" />
+      <node id="7775459748227196922" at="182,51,183,1408" concept="6" />
+      <node id="7775459748227305228" at="188,51,189,187" concept="6" />
+      <node id="7775459748227569271" at="192,15,193,66" concept="6" />
+      <node id="7775459748226885813" at="198,7,199,22" concept="6" />
+      <node id="7775459748226901129" at="201,128,202,178" concept="6" />
+      <node id="7775459748226885813" at="204,0,205,0" concept="8" trace="canBeChildBreakingPoint" />
+      <node id="7775459748226885813" at="205,0,206,0" concept="8" trace="breakingNode_9dfn1j_a0a0a0a0a1a0b0a1a4" />
+      <node id="7775459748226885813" at="206,0,207,0" concept="8" trace="breakingNode_9dfn1j_a0a0a0a0a1a0b0a2a4" />
+      <node id="7775459748226885813" at="41,0,44,0" concept="1" trace="BikeRack_Constraints#()V" />
+      <node id="7775459748226885813" at="51,0,54,9" concept="3" />
+      <node id="4045961827641004854" at="96,0,99,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="4045961827642042823" at="101,0,104,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227013459" at="135,0,138,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227020083" at="139,0,142,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227138867" at="145,0,148,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227189008" at="178,0,181,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227195963" at="182,0,185,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227304630" at="188,0,191,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748226885813" at="201,0,204,0" concept="9" trace="staticCanBeAChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Lorg/jetbrains/mps/openapi/language/SContainmentLink;)Z" />
+      <node id="7775459748226906099" at="64,0,68,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748226906104" at="75,0,79,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="4045961827639230480" at="86,0,90,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748226906113" at="114,0,118,0" concept="4" trace="hasOwnScopeProvider#()Z" />
+      <node id="7775459748226906113" at="122,0,126,0" concept="4" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7775459748226906118" at="157,0,161,0" concept="4" trace="hasOwnScopeProvider#()Z" />
+      <node id="7775459748226906118" at="165,0,169,0" concept="4" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7775459748226906099" at="68,0,73,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748226906104" at="79,0,84,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="4045961827641004849" at="94,368,99,13" concept="5" />
+      <node id="4045961827641729053" at="99,13,104,26" concept="6" />
+      <node id="7775459748227116934" at="143,22,148,19" concept="2" />
+      <node id="7775459748227288243" at="186,22,191,19" concept="2" />
+      <node id="7775459748226977842" at="143,20,149,15" concept="0" />
+      <node id="7775459748227166724" at="186,20,192,15" concept="0" />
+      <node id="7775459748226978363" at="133,47,142,19" concept="2" />
+      <node id="7775459748227167061" at="176,47,185,19" concept="2" />
+      <node id="7775459748226885813" at="48,0,58,0" concept="4" trace="invoke#(Ljetbrains/mps/smodel/runtime/ConstraintContext_CanBeChild;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Ljava/lang/Boolean;" />
+      <node id="7775459748226906099" at="62,119,73,7" concept="2" />
+      <node id="7775459748226906104" at="73,7,84,7" concept="2" />
+      <node id="7775459748226885813" at="46,103,58,6" concept="6" />
+      <node id="4045961827639230480" at="92,41,105,9" concept="0" />
+      <node id="7775459748226885813" at="45,0,60,0" concept="4" trace="calculateCanBeChildConstraint#()Ljetbrains/mps/smodel/runtime/ConstraintFunction;" />
+      <node id="4045961827639230480" at="90,0,107,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748226974500" at="132,47,149,15" concept="3" />
+      <node id="7775459748227163665" at="175,47,192,15" concept="3" />
+      <node id="4045961827639230480" at="84,7,107,7" concept="2" />
+      <node id="7775459748226906113" at="127,122,151,13" concept="0" />
+      <node id="7775459748226906118" at="170,122,194,13" concept="0" />
+      <node id="7775459748226906113" at="126,0,153,0" concept="4" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7775459748226906118" at="169,0,196,0" concept="4" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7775459748226906113" at="120,56,153,10" concept="6" />
+      <node id="7775459748226906118" at="163,56,196,10" concept="6" />
+      <node id="7775459748226906113" at="118,0,155,0" concept="4" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7775459748226906118" at="161,0,198,0" concept="4" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7775459748226906113" at="112,131,155,7" concept="2" />
+      <node id="7775459748226906118" at="155,7,198,7" concept="2" />
+      <node id="7775459748226885813" at="60,0,110,0" concept="4" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <node id="7775459748226885813" at="110,0,201,0" concept="4" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="7775459748226885813" at="41,33,42,131" />
+      <scope id="7775459748226885813" at="52,55,53,71" />
+      <scope id="7775459748226906099" at="65,40,66,20" />
+      <scope id="7775459748226906104" at="76,40,77,20" />
+      <scope id="4045961827639230480" at="87,40,88,20" />
+      <scope id="4045961827641004855" at="96,45,97,718" />
+      <scope id="4045961827642042824" at="101,45,102,1426" />
+      <scope id="7775459748226906113" at="115,44,116,20" />
+      <scope id="7775459748226906113" at="123,63,124,58" />
+      <scope id="7775459748227013460" at="135,51,136,189" />
+      <scope id="7775459748227020084" at="139,51,140,1408" />
+      <scope id="7775459748227138868" at="145,51,146,189" />
+      <scope id="7775459748226906118" at="158,44,159,20" />
+      <scope id="7775459748226906118" at="166,63,167,58" />
+      <scope id="7775459748227189009" at="178,51,179,187" />
+      <scope id="7775459748227195964" at="182,51,183,1408" />
+      <scope id="7775459748227304631" at="188,51,189,187" />
+      <scope id="7775459748226885901" at="201,128,202,178" />
+      <scope id="7775459748226906099" at="69,70,71,289">
+        <var name="propertyName" id="7775459748226906099" />
+      </scope>
+      <scope id="7775459748226906104" at="80,70,82,459">
+        <var name="propertyName" id="7775459748226906104" />
+      </scope>
+      <scope id="7775459748226885813" at="41,0,44,0" />
+      <scope id="4045961827641004854" at="96,0,99,0">
+        <var name="it" id="4045961827641004854" />
+      </scope>
+      <scope id="4045961827642042823" at="101,0,104,0">
+        <var name="it" id="4045961827642042823" />
+      </scope>
+      <scope id="7775459748227013459" at="135,0,138,0">
+        <var name="it" id="7775459748227013459" />
+      </scope>
+      <scope id="7775459748227020083" at="139,0,142,0">
+        <var name="it" id="7775459748227020083" />
+      </scope>
+      <scope id="7775459748227138867" at="145,0,148,0">
+        <var name="it" id="7775459748227138867" />
+      </scope>
+      <scope id="7775459748227189008" at="178,0,181,0">
+        <var name="it" id="7775459748227189008" />
+      </scope>
+      <scope id="7775459748227195963" at="182,0,185,0">
+        <var name="it" id="7775459748227195963" />
+      </scope>
+      <scope id="7775459748227304630" at="188,0,191,0">
+        <var name="it" id="7775459748227304630" />
+      </scope>
+      <scope id="7775459748226885813" at="201,0,204,0">
+        <var name="childConcept" id="7775459748226885813" />
+        <var name="link" id="7775459748226885813" />
+        <var name="node" id="7775459748226885813" />
+        <var name="parentNode" id="7775459748226885813" />
+      </scope>
+      <scope id="7775459748226906099" at="64,0,68,0" />
+      <scope id="7775459748226906104" at="75,0,79,0" />
+      <scope id="4045961827639230480" at="86,0,90,0" />
+      <scope id="7775459748226906113" at="114,0,118,0" />
+      <scope id="7775459748226906113" at="122,0,126,0" />
+      <scope id="7775459748226906118" at="157,0,161,0" />
+      <scope id="7775459748226906118" at="165,0,169,0" />
+      <scope id="7775459748226906099" at="68,0,73,0">
+        <var name="node" id="7775459748226906099" />
+        <var name="propertyValue" id="7775459748226906099" />
+      </scope>
+      <scope id="7775459748226906104" at="79,0,84,0">
+        <var name="node" id="7775459748226906104" />
+        <var name="propertyValue" id="7775459748226906104" />
+      </scope>
+      <scope id="7775459748226977843" at="143,22,148,19" />
+      <scope id="7775459748227166725" at="186,22,191,19" />
+      <scope id="7775459748226885813" at="49,127,56,22">
+        <var name="result" id="7775459748226885813" />
+      </scope>
+      <scope id="7775459748226974502" at="133,47,142,19" />
+      <scope id="7775459748227163667" at="176,47,185,19" />
+      <scope id="7775459748226885813" at="48,0,58,0">
+        <var name="checkingNodeContext" id="7775459748226885813" />
+        <var name="context" id="7775459748226885813" />
+      </scope>
+      <scope id="4045961827639232790" at="93,9,104,26">
+        <var name="racks" id="4045961827639273310" />
+        <var name="sameCornerRack" id="4045961827641004850" />
+      </scope>
+      <scope id="7775459748226885813" at="46,103,58,6" />
+      <scope id="4045961827639230480" at="91,76,105,9">
+        <var name="propertyName" id="4045961827639230480" />
+      </scope>
+      <scope id="7775459748226885813" at="45,0,60,0" />
+      <scope id="4045961827639230480" at="90,0,107,0">
+        <var name="node" id="4045961827639230480" />
+        <var name="propertyValue" id="4045961827639230480" />
+      </scope>
+      <scope id="7775459748226959958" at="128,13,150,66">
+        <var name="crossedStreet" id="7775459748226967490" />
+        <var name="currentNeighbourhood" id="7775459748226960530" />
+        <var name="currentRack" id="7775459748226964359" />
+        <var name="possibleHStreets" id="7775459748226971998" />
+      </scope>
+      <scope id="7775459748227150121" at="171,13,193,66">
+        <var name="crossedStreet" id="7775459748227157809" />
+        <var name="currNeighbourhood" id="7775459748227150685" />
+        <var name="currentRack" id="7775459748227154308" />
+        <var name="possibleVStreets" id="7775459748227161537" />
+      </scope>
+      <scope id="7775459748226906113" at="127,122,151,13" />
+      <scope id="7775459748226906118" at="170,122,194,13" />
+      <scope id="7775459748226906113" at="126,0,153,0">
+        <var name="_context" id="7775459748226906113" />
+        <var name="operationContext" id="7775459748226906113" />
+      </scope>
+      <scope id="7775459748226906118" at="169,0,196,0">
+        <var name="_context" id="7775459748226906118" />
+        <var name="operationContext" id="7775459748226906118" />
+      </scope>
+      <scope id="7775459748226906113" at="120,56,153,10" />
+      <scope id="7775459748226906118" at="163,56,196,10" />
+      <scope id="7775459748226906113" at="118,0,155,0" />
+      <scope id="7775459748226906118" at="161,0,198,0" />
+      <scope id="7775459748226885813" at="61,84,108,22">
+        <var name="properties" id="7775459748226885813" />
+      </scope>
+      <scope id="7775459748226885813" at="60,0,110,0" />
+      <scope id="7775459748226885813" at="111,90,199,22">
+        <var name="references" id="7775459748226885813" />
+      </scope>
+      <scope id="7775459748226885813" at="110,0,201,0" />
+      <unit id="4045961827641004854" at="95,82,99,11" name="Bixi.constraints.BikeRack_Constraints$4$1" />
+      <unit id="4045961827642042823" at="100,65,104,11" name="Bixi.constraints.BikeRack_Constraints$4$2" />
+      <unit id="7775459748227013459" at="134,252,138,17" name="Bixi.constraints.BikeRack_Constraints$5$1$1" />
+      <unit id="7775459748227020083" at="138,29,142,17" name="Bixi.constraints.BikeRack_Constraints$5$1$2" />
+      <unit id="7775459748227138867" at="144,252,148,17" name="Bixi.constraints.BikeRack_Constraints$5$1$3" />
+      <unit id="7775459748227189008" at="177,249,181,17" name="Bixi.constraints.BikeRack_Constraints$6$1$1" />
+      <unit id="7775459748227195963" at="181,29,185,17" name="Bixi.constraints.BikeRack_Constraints$6$1$2" />
+      <unit id="7775459748227304630" at="187,249,191,17" name="Bixi.constraints.BikeRack_Constraints$6$1$3" />
+      <unit id="7775459748226906099" at="63,156,73,5" name="Bixi.constraints.BikeRack_Constraints$2" />
+      <unit id="7775459748226906104" at="74,153,84,5" name="Bixi.constraints.BikeRack_Constraints$3" />
+      <unit id="7775459748226885813" at="47,15,58,5" name="Bixi.constraints.BikeRack_Constraints$1" />
+      <unit id="4045961827639230480" at="85,151,107,5" name="Bixi.constraints.BikeRack_Constraints$4" />
+      <unit id="7775459748226906113" at="121,19,153,9" name="Bixi.constraints.BikeRack_Constraints$5$1" />
+      <unit id="7775459748226906118" at="164,19,196,9" name="Bixi.constraints.BikeRack_Constraints$6$1" />
+      <unit id="7775459748226906113" at="113,164,155,5" name="Bixi.constraints.BikeRack_Constraints$5" />
+      <unit id="7775459748226906118" at="156,162,198,5" name="Bixi.constraints.BikeRack_Constraints$6" />
+      <unit id="7775459748226885813" at="40,0,208,0" name="Bixi.constraints.BikeRack_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885834">
+    <file name="Member_Constraints.java">
+      <node id="7775459748226885834" at="22,31,23,129" concept="10" />
+      <node id="7775459748226885834" at="27,84,28,119" concept="5" />
+      <node id="7775459748227319402" at="31,40,32,20" concept="6" />
+      <node id="7775459748227319402" at="35,76,36,35" concept="5" />
+      <node id="7775459748227342138" at="38,43,39,241" concept="6" />
+      <node id="7775459748226885834" at="43,7,44,22" concept="6" />
+      <node id="7775459748226885834" at="22,0,25,0" concept="1" trace="Member_Constraints#()V" />
+      <node id="7775459748227341122" at="38,0,41,0" concept="4" trace="accept#(Lorg/jetbrains/mps/openapi/model/SNode;)Z" />
+      <node id="7775459748227319402" at="30,0,34,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748227319871" at="36,35,41,24" concept="6" />
+      <node id="7775459748227319402" at="34,0,43,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748227319402" at="28,119,43,7" concept="2" />
+      <node id="7775459748226885834" at="26,0,46,0" concept="4" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="7775459748226885834" at="22,31,23,129" />
+      <scope id="7775459748227319402" at="31,40,32,20" />
+      <scope id="7775459748227341123" at="38,43,39,241" />
+      <scope id="7775459748226885834" at="22,0,25,0" />
+      <scope id="7775459748227341122" at="38,0,41,0">
+        <var name="it" id="7775459748227341122" />
+      </scope>
+      <scope id="7775459748227319402" at="30,0,34,0" />
+      <scope id="7775459748227319402" at="35,76,41,24">
+        <var name="propertyName" id="7775459748227319402" />
+      </scope>
+      <scope id="7775459748227319402" at="34,0,43,0">
+        <var name="node" id="7775459748227319402" />
+        <var name="propertyValue" id="7775459748227319402" />
+      </scope>
+      <scope id="7775459748226885834" at="27,84,44,22">
+        <var name="properties" id="7775459748226885834" />
+      </scope>
+      <scope id="7775459748226885834" at="26,0,46,0" />
+      <unit id="7775459748227341122" at="37,389,41,9" name="Bixi.constraints.Member_Constraints$1$1" />
+      <unit id="7775459748227319402" at="29,145,43,5" name="Bixi.constraints.Member_Constraints$1" />
+      <unit id="7775459748226885834" at="21,0,47,0" name="Bixi.constraints.Member_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885845">
+    <file name="MemberMovement_Constraints.java">
+      <node id="7775459748226885845" at="32,39,33,137" concept="10" />
+      <node id="7775459748226885845" at="37,84,38,119" concept="5" />
+      <node id="7775459748227310686" at="41,40,42,20" concept="6" />
+      <node id="7775459748227310686" at="45,70,46,46" concept="5" />
+      <node id="7775459748227311156" at="46,46,47,68" concept="6" />
+      <node id="7775459748226885845" at="49,7,50,22" concept="6" />
+      <node id="7775459748226885845" at="53,90,54,131" concept="5" />
+      <node id="4045961827642284198" at="57,44,58,20" concept="6" />
+      <node id="4045961827642284198" at="65,63,66,58" concept="6" />
+      <node id="4045961827642295875" at="70,13,71,410" concept="5" />
+      <node id="4045961827642309937" at="71,410,72,69" concept="6" />
+      <node id="7775459748226885845" at="77,7,78,22" concept="6" />
+      <node id="7775459748226885845" at="80,0,81,0" concept="8" trace="breakingNode_um4y7k_a0a0a0a0a1a0b0a1a3" />
+      <node id="7775459748226885845" at="32,0,35,0" concept="1" trace="MemberMovement_Constraints#()V" />
+      <node id="7775459748227310686" at="40,0,44,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="4045961827642284198" at="56,0,60,0" concept="4" trace="hasOwnScopeProvider#()Z" />
+      <node id="4045961827642284198" at="64,0,68,0" concept="4" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="4045961827642284198" at="69,122,73,13" concept="0" />
+      <node id="7775459748227310686" at="44,0,49,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="4045961827642284198" at="68,0,75,0" concept="4" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7775459748227310686" at="38,119,49,7" concept="2" />
+      <node id="4045961827642284198" at="62,56,75,10" concept="6" />
+      <node id="7775459748226885845" at="36,0,52,0" concept="4" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <node id="4045961827642284198" at="60,0,77,0" concept="4" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="4045961827642284198" at="54,131,77,7" concept="2" />
+      <node id="7775459748226885845" at="52,0,80,0" concept="4" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="7775459748226885845" at="32,39,33,137" />
+      <scope id="7775459748227310686" at="41,40,42,20" />
+      <scope id="4045961827642284198" at="57,44,58,20" />
+      <scope id="4045961827642284198" at="65,63,66,58" />
+      <scope id="7775459748227310686" at="45,70,47,68">
+        <var name="propertyName" id="7775459748227310686" />
+      </scope>
+      <scope id="4045961827642284750" at="70,13,72,69">
+        <var name="neighborhoodMembers" id="4045961827642295876" />
+      </scope>
+      <scope id="7775459748226885845" at="32,0,35,0" />
+      <scope id="7775459748227310686" at="40,0,44,0" />
+      <scope id="4045961827642284198" at="56,0,60,0" />
+      <scope id="4045961827642284198" at="64,0,68,0" />
+      <scope id="4045961827642284198" at="69,122,73,13" />
+      <scope id="7775459748227310686" at="44,0,49,0">
+        <var name="node" id="7775459748227310686" />
+        <var name="propertyValue" id="7775459748227310686" />
+      </scope>
+      <scope id="4045961827642284198" at="68,0,75,0">
+        <var name="_context" id="4045961827642284198" />
+        <var name="operationContext" id="4045961827642284198" />
+      </scope>
+      <scope id="7775459748226885845" at="37,84,50,22">
+        <var name="properties" id="7775459748226885845" />
+      </scope>
+      <scope id="4045961827642284198" at="62,56,75,10" />
+      <scope id="7775459748226885845" at="36,0,52,0" />
+      <scope id="4045961827642284198" at="60,0,77,0" />
+      <scope id="7775459748226885845" at="53,90,78,22">
+        <var name="references" id="7775459748226885845" />
+      </scope>
+      <scope id="7775459748226885845" at="52,0,80,0" />
+      <unit id="7775459748227310686" at="39,156,49,5" name="Bixi.constraints.MemberMovement_Constraints$1" />
+      <unit id="4045961827642284198" at="63,19,75,9" name="Bixi.constraints.MemberMovement_Constraints$2$1" />
+      <unit id="4045961827642284198" at="55,154,77,5" name="Bixi.constraints.MemberMovement_Constraints$2" />
+      <unit id="7775459748226885845" at="31,0,82,0" name="Bixi.constraints.MemberMovement_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885856">
+    <file name="Neighbourhood_Constraints.java">
+      <node id="7775459748226885856" at="20,38,21,136" concept="10" />
+      <node id="7775459748226885856" at="28,128,29,133" concept="5" />
+      <node id="7775459748226885856" at="29,133,30,0" concept="7" />
+      <node id="7775459748226885856" at="31,55,32,72" concept="2" />
+      <node id="7775459748226885856" at="33,9,34,0" concept="7" />
+      <node id="7775459748226885856" at="34,0,35,22" concept="6" />
+      <node id="7775459748227389168" at="39,128,40,732" concept="6" />
+      <node id="7775459748226885856" at="42,0,43,0" concept="8" trace="canBeParentBreakingPoint" />
+      <node id="7775459748226885856" at="20,0,23,0" concept="1" trace="Neighbourhood_Constraints#()V" />
+      <node id="7775459748226885856" at="30,0,33,9" concept="3" />
+      <node id="7775459748226885856" at="39,0,42,0" concept="9" trace="staticCanBeAParent#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Lorg/jetbrains/mps/openapi/language/SContainmentLink;)Z" />
+      <node id="7775459748226885856" at="27,0,37,0" concept="4" trace="invoke#(Ljetbrains/mps/smodel/runtime/ConstraintContext_CanBeParent;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Ljava/lang/Boolean;" />
+      <node id="7775459748226885856" at="25,105,37,6" concept="6" />
+      <node id="7775459748226885856" at="24,0,39,0" concept="4" trace="calculateCanBeParentConstraint#()Ljetbrains/mps/smodel/runtime/ConstraintFunction;" />
+      <scope id="7775459748226885856" at="20,38,21,136" />
+      <scope id="7775459748226885856" at="31,55,32,72" />
+      <scope id="7775459748227388701" at="39,128,40,732" />
+      <scope id="7775459748226885856" at="20,0,23,0" />
+      <scope id="7775459748226885856" at="39,0,42,0">
+        <var name="childConcept" id="7775459748226885856" />
+        <var name="childNode" id="7775459748226885856" />
+        <var name="link" id="7775459748226885856" />
+        <var name="node" id="7775459748226885856" />
+      </scope>
+      <scope id="7775459748226885856" at="28,128,35,22">
+        <var name="result" id="7775459748226885856" />
+      </scope>
+      <scope id="7775459748226885856" at="27,0,37,0">
+        <var name="checkingNodeContext" id="7775459748226885856" />
+        <var name="context" id="7775459748226885856" />
+      </scope>
+      <scope id="7775459748226885856" at="25,105,37,6" />
+      <scope id="7775459748226885856" at="24,0,39,0" />
+      <unit id="7775459748226885856" at="26,15,37,5" name="Bixi.constraints.Neighbourhood_Constraints$1" />
+      <unit id="7775459748226885856" at="19,0,44,0" name="Bixi.constraints.Neighbourhood_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885867">
+    <file name="RandomMovement_Constraints.java">
+      <node id="7775459748226885867" at="9,39,10,137" concept="10" />
+      <node id="7775459748226885867" at="9,0,12,0" concept="1" trace="RandomMovement_Constraints#()V" />
+      <scope id="7775459748226885867" at="9,39,10,137" />
+      <scope id="7775459748226885867" at="9,0,12,0" />
+      <unit id="7775459748226885867" at="8,0,14,0" name="Bixi.constraints.RandomMovement_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885878">
+    <file name="Redistribution_Constraints.java">
+      <node id="7775459748226885878" at="9,39,10,137" concept="10" />
+      <node id="7775459748226885878" at="9,0,12,0" concept="1" trace="Redistribution_Constraints#()V" />
+      <scope id="7775459748226885878" at="9,39,10,137" />
+      <scope id="7775459748226885878" at="9,0,12,0" />
+      <unit id="7775459748226885878" at="8,0,14,0" name="Bixi.constraints.Redistribution_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748226885889">
+    <file name="Street_Constraints.java">
+      <node id="7775459748226885889" at="26,31,27,129" concept="10" />
+      <node id="7775459748226885889" at="34,127,35,128" concept="5" />
+      <node id="7775459748226885889" at="35,128,36,0" concept="7" />
+      <node id="7775459748226885889" at="37,55,38,71" concept="2" />
+      <node id="7775459748226885889" at="39,9,40,0" concept="7" />
+      <node id="7775459748226885889" at="40,0,41,22" concept="6" />
+      <node id="7775459748226885889" at="46,84,47,119" concept="5" />
+      <node id="7775459748227428658" at="50,40,51,20" concept="6" />
+      <node id="7775459748227428658" at="54,70,55,42" concept="5" />
+      <node id="7775459748227461507" at="55,42,56,124" concept="6" />
+      <node id="7775459748227428663" at="61,40,62,20" concept="6" />
+      <node id="7775459748227428663" at="65,70,66,43" concept="5" />
+      <node id="7775459748227445676" at="66,43,67,125" concept="6" />
+      <node id="7775459748227428672" at="72,40,73,20" concept="6" />
+      <node id="7775459748227428672" at="76,70,77,43" concept="5" />
+      <node id="7775459748227477509" at="77,43,78,346" concept="6" />
+      <node id="7775459748226885889" at="80,7,81,22" concept="6" />
+      <node id="7775459748227424787" at="83,128,84,178" concept="6" />
+      <node id="7775459748226885889" at="86,0,87,0" concept="8" trace="canBeChildBreakingPoint" />
+      <node id="7775459748226885889" at="26,0,29,0" concept="1" trace="Street_Constraints#()V" />
+      <node id="7775459748226885889" at="36,0,39,9" concept="3" />
+      <node id="7775459748226885889" at="83,0,86,0" concept="9" trace="staticCanBeAChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Lorg/jetbrains/mps/openapi/language/SContainmentLink;)Z" />
+      <node id="7775459748227428658" at="49,0,53,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748227428663" at="60,0,64,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748227428672" at="71,0,75,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="7775459748227428658" at="53,0,58,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748227428663" at="64,0,69,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748227428672" at="75,0,80,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748226885889" at="33,0,43,0" concept="4" trace="invoke#(Ljetbrains/mps/smodel/runtime/ConstraintContext_CanBeChild;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Ljava/lang/Boolean;" />
+      <node id="7775459748227428658" at="47,119,58,7" concept="2" />
+      <node id="7775459748227428663" at="58,7,69,7" concept="2" />
+      <node id="7775459748227428672" at="69,7,80,7" concept="2" />
+      <node id="7775459748226885889" at="31,103,43,6" concept="6" />
+      <node id="7775459748226885889" at="30,0,45,0" concept="4" trace="calculateCanBeChildConstraint#()Ljetbrains/mps/smodel/runtime/ConstraintFunction;" />
+      <node id="7775459748226885889" at="45,0,83,0" concept="4" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="7775459748226885889" at="26,31,27,129" />
+      <scope id="7775459748226885889" at="37,55,38,71" />
+      <scope id="7775459748227428658" at="50,40,51,20" />
+      <scope id="7775459748227428663" at="61,40,62,20" />
+      <scope id="7775459748227428672" at="72,40,73,20" />
+      <scope id="7775459748227424320" at="83,128,84,178" />
+      <scope id="7775459748227428658" at="54,70,56,124">
+        <var name="propertyName" id="7775459748227428658" />
+      </scope>
+      <scope id="7775459748227428663" at="65,70,67,125">
+        <var name="propertyName" id="7775459748227428663" />
+      </scope>
+      <scope id="7775459748227428672" at="76,70,78,346">
+        <var name="propertyName" id="7775459748227428672" />
+      </scope>
+      <scope id="7775459748226885889" at="26,0,29,0" />
+      <scope id="7775459748226885889" at="83,0,86,0">
+        <var name="childConcept" id="7775459748226885889" />
+        <var name="link" id="7775459748226885889" />
+        <var name="node" id="7775459748226885889" />
+        <var name="parentNode" id="7775459748226885889" />
+      </scope>
+      <scope id="7775459748227428658" at="49,0,53,0" />
+      <scope id="7775459748227428663" at="60,0,64,0" />
+      <scope id="7775459748227428672" at="71,0,75,0" />
+      <scope id="7775459748227428658" at="53,0,58,0">
+        <var name="node" id="7775459748227428658" />
+        <var name="propertyValue" id="7775459748227428658" />
+      </scope>
+      <scope id="7775459748227428663" at="64,0,69,0">
+        <var name="node" id="7775459748227428663" />
+        <var name="propertyValue" id="7775459748227428663" />
+      </scope>
+      <scope id="7775459748227428672" at="75,0,80,0">
+        <var name="node" id="7775459748227428672" />
+        <var name="propertyValue" id="7775459748227428672" />
+      </scope>
+      <scope id="7775459748226885889" at="34,127,41,22">
+        <var name="result" id="7775459748226885889" />
+      </scope>
+      <scope id="7775459748226885889" at="33,0,43,0">
+        <var name="checkingNodeContext" id="7775459748226885889" />
+        <var name="context" id="7775459748226885889" />
+      </scope>
+      <scope id="7775459748226885889" at="31,103,43,6" />
+      <scope id="7775459748226885889" at="30,0,45,0" />
+      <scope id="7775459748226885889" at="46,84,81,22">
+        <var name="properties" id="7775459748226885889" />
+      </scope>
+      <scope id="7775459748226885889" at="45,0,83,0" />
+      <unit id="7775459748227428658" at="48,152,58,5" name="Bixi.constraints.Street_Constraints$2" />
+      <unit id="7775459748227428663" at="59,153,69,5" name="Bixi.constraints.Street_Constraints$3" />
+      <unit id="7775459748227428672" at="70,153,80,5" name="Bixi.constraints.Street_Constraints$4" />
+      <unit id="7775459748226885889" at="32,15,43,5" name="Bixi.constraints.Street_Constraints$1" />
+      <unit id="7775459748226885889" at="25,0,88,0" name="Bixi.constraints.Street_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:523c7c62-7bf2-439d-8b6f-b8ba789d797b(Bixi.constraints)/7775459748227377578">
+    <file name="Movement_Constraints.java">
+      <node id="7775459748227377578" at="37,33,38,131" concept="10" />
+      <node id="7775459748227377578" at="45,127,46,128" concept="5" />
+      <node id="7775459748227377578" at="46,128,47,0" concept="7" />
+      <node id="7775459748227377578" at="48,55,49,71" concept="2" />
+      <node id="7775459748227377578" at="50,9,51,0" concept="7" />
+      <node id="7775459748227377578" at="51,0,52,22" concept="6" />
+      <node id="7775459748227377578" at="57,84,58,119" concept="5" />
+      <node id="7775459748227377579" at="61,40,62,20" concept="6" />
+      <node id="7775459748227377579" at="65,70,66,46" concept="5" />
+      <node id="7775459748227382862" at="66,46,67,68" concept="6" />
+      <node id="7775459748227377578" at="69,7,70,22" concept="6" />
+      <node id="7775459748227377578" at="73,90,74,131" concept="5" />
+      <node id="4045961827642384011" at="77,44,78,20" concept="6" />
+      <node id="4045961827642384011" at="85,63,86,58" concept="6" />
+      <node id="4045961827642390800" at="89,122,90,407" concept="6" />
+      <node id="4045961827642384013" at="97,44,98,20" concept="6" />
+      <node id="4045961827642384013" at="105,63,106,58" concept="6" />
+      <node id="4045961827642384398" at="109,122,110,407" concept="6" />
+      <node id="7775459748227377578" at="114,7,115,22" concept="6" />
+      <node id="7775459748227378520" at="117,128,118,178" concept="6" />
+      <node id="7775459748227377578" at="120,0,121,0" concept="8" trace="canBeChildBreakingPoint" />
+      <node id="7775459748227377578" at="121,0,122,0" concept="8" trace="breakingNode_raj2hf_a0a0a0a0a1a0b0a1a4" />
+      <node id="7775459748227377578" at="122,0,123,0" concept="8" trace="breakingNode_raj2hf_a0a0a0a0a1a0b0a2a4" />
+      <node id="7775459748227377578" at="37,0,40,0" concept="1" trace="Movement_Constraints#()V" />
+      <node id="7775459748227377578" at="47,0,50,9" concept="3" />
+      <node id="7775459748227377578" at="117,0,120,0" concept="9" trace="staticCanBeAChild#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Lorg/jetbrains/mps/openapi/language/SContainmentLink;)Z" />
+      <node id="7775459748227377579" at="60,0,64,0" concept="4" trace="hasOwnValidator#()Z" />
+      <node id="4045961827642384011" at="76,0,80,0" concept="4" trace="hasOwnScopeProvider#()Z" />
+      <node id="4045961827642384011" at="84,0,88,0" concept="4" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="4045961827642384011" at="88,0,92,0" concept="4" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="4045961827642384013" at="96,0,100,0" concept="4" trace="hasOwnScopeProvider#()Z" />
+      <node id="4045961827642384013" at="104,0,108,0" concept="4" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="4045961827642384013" at="108,0,112,0" concept="4" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7775459748227377579" at="64,0,69,0" concept="4" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7775459748227377578" at="44,0,54,0" concept="4" trace="invoke#(Ljetbrains/mps/smodel/runtime/ConstraintContext_CanBeChild;Ljetbrains/mps/smodel/runtime/CheckingNodeContext;)Ljava/lang/Boolean;" />
+      <node id="4045961827642384011" at="82,56,92,10" concept="6" />
+      <node id="4045961827642384013" at="102,56,112,10" concept="6" />
+      <node id="7775459748227377579" at="58,119,69,7" concept="2" />
+      <node id="7775459748227377578" at="42,103,54,6" concept="6" />
+      <node id="4045961827642384011" at="80,0,94,0" concept="4" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="4045961827642384013" at="100,0,114,0" concept="4" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7775459748227377578" at="41,0,56,0" concept="4" trace="calculateCanBeChildConstraint#()Ljetbrains/mps/smodel/runtime/ConstraintFunction;" />
+      <node id="7775459748227377578" at="56,0,72,0" concept="4" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <node id="4045961827642384011" at="74,131,94,7" concept="2" />
+      <node id="4045961827642384013" at="94,7,114,7" concept="2" />
+      <node id="7775459748227377578" at="72,0,117,0" concept="4" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="7775459748227377578" at="37,33,38,131" />
+      <scope id="7775459748227377578" at="48,55,49,71" />
+      <scope id="7775459748227377579" at="61,40,62,20" />
+      <scope id="4045961827642384011" at="77,44,78,20" />
+      <scope id="4045961827642384011" at="85,63,86,58" />
+      <scope id="4045961827642384011" at="89,122,90,407" />
+      <scope id="4045961827642384013" at="97,44,98,20" />
+      <scope id="4045961827642384013" at="105,63,106,58" />
+      <scope id="4045961827642384013" at="109,122,110,407" />
+      <scope id="7775459748227378053" at="117,128,118,178" />
+      <scope id="7775459748227377579" at="65,70,67,68">
+        <var name="propertyName" id="7775459748227377579" />
+      </scope>
+      <scope id="7775459748227377578" at="37,0,40,0" />
+      <scope id="7775459748227377578" at="117,0,120,0">
+        <var name="childConcept" id="7775459748227377578" />
+        <var name="link" id="7775459748227377578" />
+        <var name="node" id="7775459748227377578" />
+        <var name="parentNode" id="7775459748227377578" />
+      </scope>
+      <scope id="7775459748227377579" at="60,0,64,0" />
+      <scope id="4045961827642384011" at="76,0,80,0" />
+      <scope id="4045961827642384011" at="84,0,88,0" />
+      <scope id="4045961827642384011" at="88,0,92,0">
+        <var name="_context" id="4045961827642384011" />
+        <var name="operationContext" id="4045961827642384011" />
+      </scope>
+      <scope id="4045961827642384013" at="96,0,100,0" />
+      <scope id="4045961827642384013" at="104,0,108,0" />
+      <scope id="4045961827642384013" at="108,0,112,0">
+        <var name="_context" id="4045961827642384013" />
+        <var name="operationContext" id="4045961827642384013" />
+      </scope>
+      <scope id="7775459748227377579" at="64,0,69,0">
+        <var name="node" id="7775459748227377579" />
+        <var name="propertyValue" id="7775459748227377579" />
+      </scope>
+      <scope id="7775459748227377578" at="45,127,52,22">
+        <var name="result" id="7775459748227377578" />
+      </scope>
+      <scope id="7775459748227377578" at="44,0,54,0">
+        <var name="checkingNodeContext" id="7775459748227377578" />
+        <var name="context" id="7775459748227377578" />
+      </scope>
+      <scope id="4045961827642384011" at="82,56,92,10" />
+      <scope id="4045961827642384013" at="102,56,112,10" />
+      <scope id="7775459748227377578" at="42,103,54,6" />
+      <scope id="7775459748227377578" at="57,84,70,22">
+        <var name="properties" id="7775459748227377578" />
+      </scope>
+      <scope id="4045961827642384011" at="80,0,94,0" />
+      <scope id="4045961827642384013" at="100,0,114,0" />
+      <scope id="7775459748227377578" at="41,0,56,0" />
+      <scope id="7775459748227377578" at="56,0,72,0" />
+      <scope id="7775459748227377578" at="73,90,115,22">
+        <var name="references" id="7775459748227377578" />
+      </scope>
+      <scope id="7775459748227377578" at="72,0,117,0" />
+      <unit id="4045961827642384011" at="83,19,92,9" name="Bixi.constraints.Movement_Constraints$3$1" />
+      <unit id="4045961827642384013" at="103,19,112,9" name="Bixi.constraints.Movement_Constraints$4$1" />
+      <unit id="7775459748227377579" at="59,156,69,5" name="Bixi.constraints.Movement_Constraints$2" />
+      <unit id="7775459748227377578" at="43,15,54,5" name="Bixi.constraints.Movement_Constraints$1" />
+      <unit id="4045961827642384011" at="75,158,94,5" name="Bixi.constraints.Movement_Constraints$3" />
+      <unit id="4045961827642384013" at="95,158,114,5" name="Bixi.constraints.Movement_Constraints$4" />
+      <unit id="7775459748227377578" at="36,0,124,0" name="Bixi.constraints.Movement_Constraints" />
+    </file>
+  </root>
+</debug-info>
+
